@@ -1,6 +1,4 @@
-[![](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Krishna;A+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-# 💫 About Me:
-I'm currently learning PyTorch
+[![](https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&color=4F85F2&center=true&vCenter=true&width=445&lines=Hey%2C+I'm+Krishna.;A+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
 
 <h3 align="left">Tech Stack</h3>

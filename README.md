@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&pause=250&color=4F85F2&center=true&vCenter=true&width=1000&height=65&lines=Hey%2C+I'm+Krishna.;A+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
 # Tech Stack
-Python | Java | C | R | SQL | Matlab  
+Python | Java | C | R | Scala | SQL | Matlab  
 Numpy | Pandas | Matplotlib | Seaborns | Plotly | Sklearn | NLTK | Textblob | Keras  
-HTML | CSS
+HTML | CSS | TailwindCSS | Django
 
 </br>
 <p align="center">

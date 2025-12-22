@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=300&size=30&duration=6000&pause=500&color=4F85F2&center=true&vCenter=true&width=1000&height=65&lines=Hi%2C+I'm+A+P+Krishna.;A+Machine+Learning+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=300&size=30&duration=6000&pause=500&color=4F85F2&center=true&vCenter=true&width=1000&height=150&lines=Hi%2C+I'm+A+P+Krishna.;A+Machine+Learning+Engineer.)](https://git.io/typing-svg)
 
 ## 👋 About Me
 I’m a Machine Learning Engineer with hands-on experience in **NLP, Computer Vision, and Retrieval-Augmented Generation (RAG)** systems.  

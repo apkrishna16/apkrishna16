@@ -12,7 +12,7 @@ Python · Java · JavaScript · SQL · C · R · Scala · MATLAB · Bash
 NumPy · Pandas · Scikit-learn · Statsmodels · XGBoost  
 PyTorch · TensorFlow · Keras  
 Matplotlib · Seaborn · Plotly  
-NLTK · spaCy · Hugging Face · LangChain · Ollama   
+NLTK · spaCy · Hugging Face · LangChain · Ollama · LangGraph
 OpenCV · Ultralytics · Pillow  
 
 ### Web, APIs & App Development
@@ -21,7 +21,7 @@ Django · Flask · Streamlit
 FastAPI · Pydantic · Postman  
 
 ### Cloud & MLOps
-Google Cloud Platform (GCP): Vertex AI · BigQuery · AlloyDB · Agent Engine  
+Google Cloud Platform (GCP): Vertex AI · BigQuery · AlloyDB · Agent Engine · FireStore · CloudRun
 Git · Docker · MLflow
 
 ### Databases
